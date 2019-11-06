@@ -5,6 +5,8 @@ import java.util.*
 /**
  * Main class
  * This class will start the programme
+ * Main method this will ask the user for an input in MGLT and makes sure that they
+ * input an integer which then calls {@link SWApiCall} which starts the programme
  */
 fun main() {
 
